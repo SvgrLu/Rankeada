@@ -3,8 +3,8 @@ let defeats =  10
 let saldo = subtract(victorys, defeats)
 
 function subtract(numA, numB){
-    let conta = numA - numB
-    return conta
+    let calculation = numA - numB
+    return calculation
 }
 
 
